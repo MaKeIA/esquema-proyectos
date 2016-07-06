@@ -205,8 +205,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Nombre" Documentation',
-   u'Alumno', 'manual'),
+  ('index', 'DocumentaciondeproyectoCasaCultura.tex', u'Documentación de proyecto "CasaCultura" Documentation',
+   u'Luis Antonio Makepeace', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -249,8 +249,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'DocumentacindeproyectoNombre', u'Documentación de proyecto "Nombre" Documentation',
-   u'Alumno', 'DocumentacindeproyectoNombre', 'One line description of project.',
+  ('index', 'DocumentaciondeproyectoCasaCultura', u'Documentación de proyecto "CasaCultura" Documentation',
+   u'Luis Antonio Makepeace', 'DocumentaciondeproyectoCasaCultura', 'One line description of project.',
    'Miscellaneous'),
 ]
 
