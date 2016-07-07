@@ -7,6 +7,7 @@ Casos de Uso
 Se colocan los distintos casos de uso, tanto para la aplicación general como para
 cada módulo.
 
+
 figure:: Diagramas Caso de Uso/Diagramacasodeuso.jpg
 :align: center
 
