@@ -17,12 +17,12 @@ el administrador. Al igual que el registro de artistas, se validaran los
 eventos creados por los artistas. La agenda estara categorizada, para una mejor 
 busqueda.
 
-
+-------
 Modulos
-^^^^^^^
+-------
 
 Usuarios
--------------------
+^^^^^^^^
 
 Modulo donde se registraran, crearan su perfil y actualizaran datos.
 Divido en tres submodulos:
@@ -42,35 +42,35 @@ la verificacion de estadististicas.
 
 
 Gestion de Eventos
--------------------
+^^^^^^^^^^^^^^^^^^
 
 Modulo que contemplara el control de la creacion de eventos.Por parte del 
 administrador validara los eventos creados por el artista, asimismo, creara 
 sus propios eventos.  
 
 Gestion de Usuarios
--------------------
+^^^^^^^^^^^^^^^^^^^^
 
 Modulo donde se tendra el control del registro y los privilegios de un artista y 
 de un usuario-visitante a cargo del administrador. Asi como la validacion y 
 verificacion del registro.  
 
 Capsulas Informativas
----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Modulo donde el administrador podra enviar informacion cultural sobre fechas 
 conmemorativa o importantes que tengan que ser del conocimiento del usuario 
 comun.
 
 Estadisticas
-------------
+^^^^^^^^^^^^
 
 Modulo donde se tendran el control de los datos que se vayan generando por las 
 acciones que hagan los usuarios comunes y artistas con la finalidad de estas 
 estadisticas nos ayuden a la toma de decisiones posteriormente.
 
 Directorio
-----------
+^^^^^^^^^^
 
 EL modulo tendra todos los artistas creados, gestionara una busqueda categorizada
 para una mayor eficiencia por tipo de artista, nombre, entre otros. Aparte el artista 
