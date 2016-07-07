@@ -1,38 +1,78 @@
-﻿El proyecto
+﻿Fomentando La Cultura
 ===========
 
 Descripción General
 -------------------
 
-El proyecto en general consiste en dar a concer sobre el ambiente cultural que 
-existe en Quetzaltenango, involucrando a artistas y centros interculturales. 
-Para ello la aplicacion esta estructurada con tres partes:
+El proyecto a desarrollar es la creacion de una aplicacion web que ayude a 
+promover la cultura en Quetzaltenango. La aplicacion tendra una agenda sobre 
+eventos de cultura, estos podran ser filtrados a gusto del usuario-visitante.
+Los eventos tendran informacion detallada sobre lugar, día, precio, etc. 
 
-La primera basada para los usuarios visitantes que tendran la obtencion de 
-actividades relacionadas a la cultura donde tendra su debida informacion 
-respecto a lugar, fecha y precios; a este se le colocaran filtros respectivos 
-con el fin de tener una agenda mas personalizada al gusto de la persona. En cada
-evento se tendra habilitada la publicacion de una reseña, la consulta del perfil 
-de un ente cultural o artista, el poder optar por querer notificaciones de 
-ciertos tipos de eventos y capsulas informativas.
-La segunda parte aparte de tener la primera parte, enfocada para el artista. Su 
-función es la creacion de un perfil con el que el usuario visitante podra ver su
-biografia. El artista ya creado su perfil podra crear eventos, pero para ello 
-el administrador debera tener una forma de validar el perfil para saber si no es 
-falso.
-La tercera parte, relacionadas directamente con las primeras dos partes es la 
-organizacion que tendra la aplicacion en si para la visualizacion de los 
-usuarios.     
-   
+Aparte de la agenda, existira un directorio de artistas con un perfil, 
+el cual tendra su datos personales. La validacion del registro de los 
+artistas estara a cargo del administrador, él cual verificara datos correctos 
+con respecto del mismo. La creacion de los eventos seran los artistas y
+el administrador. Al igual que el registro de artistas, se validaran los 
+eventos creados por los artistas. La agenda estara categorizada, para una mejor 
+busqueda.
+
 
 Modulos
 ^^^^^^^
 
-Los modulas que se contemplaran en la aplicacion son:
+Usuarios
+-------------------
 
-Administracion: Encargada de poder validar y crear eventos, aprobacion de 
-perfiles de artistas.
+Modulo donde se registraran, crearan su perfil y actualizaran datos.
+Divido en tres submodulos:
 
-Eventos: Creados por los artistas con la finalidad de promover su talento y por 
-parte del cliente del sistema la cultura. Tambien podran crear los eventos la 
-casa de la Cultura.
+**Usuario comun:
+En este modulo se manejaran las acciones que puede hacer el usuario. La 
+verificacion del registro para poder validarla. 
+
+**Artista:
+Modulo donde tiene las caracteristicas del usuario comun, agregando que el 
+artista podra crear eventos.
+
+**Administrador:
+Modulo donde el usuario tiene todos los privilegio donde podra hacer la gestion
+de usuarios comunes, artistas y eventos. La creacion de capsulas informaticos y 
+la verificacion de estadististicas.
+
+
+Gestion de Eventos
+-------------------
+
+Modulo que contemplara el control de la creacion de eventos.Por parte del 
+administrador validara los eventos creados por el artista, asimismo, creara 
+sus propios eventos.  
+
+Gestion de Usuarios
+-------------------
+
+Modulo donde se tendra el control del registro y los privilegios de un artista y 
+de un usuario-visitante a cargo del administrador. Asi como la validacion y 
+verificacion del registro.  
+
+Capsulas Informativas
+---------------------
+
+Modulo donde el administrador podra enviar informacion cultural sobre fechas 
+conmemorativa o importantes que tengan que ser del conocimiento del usuario 
+comun.
+
+Estadisticas
+------------
+
+Modulo donde se tendran el control de los datos que se vayan generando por las 
+acciones que hagan los usuarios comunes y artistas con la finalidad de estas 
+estadisticas nos ayuden a la toma de decisiones posteriormente.
+
+Directorio
+----------
+
+EL modulo tendra todos los artistas creados, gestionara una busqueda categorizada
+para una mayor eficiencia por tipo de artista, nombre, entre otros. Aparte el artista 
+tendra informacion detallada de el y como contactarlos. Tendra un diseño de forma de 
+cartelera.
