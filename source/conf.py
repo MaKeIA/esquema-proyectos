@@ -31,7 +31,9 @@ import os
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
+    'rst2pdf.pdfbuilder',
 ]
+pdf_documents = [('index', u'Luis Makepeace', u'Fomentando La Cultura', u'Luis Makepeace'),]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
