@@ -8,33 +8,31 @@ Se colocan los distintos casos de uso, tanto para la aplicación general como pa
 cada módulo.
 
 
-.. image:: ../source/images/Diagramacasodeuso.png
+.. image:: ../images/Diagramacasodeuso.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso1.png
+.. image:: ../images/Diagramacasodeuso1.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso2.png
+.. image:: ../images/Diagramacasodeuso2.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso3.png
+.. image:: ../images/Diagramacasodeuso3.png
    :scale: 80 %
 
-
-.. image:: ../source/images/Diagramacasodeuso4.png
+.. image:: ../images/Diagramacasodeuso4.png
    :scale: 80 %
 
-
-.. image:: ../source/images/Diagramacasodeuso5.png
+.. image:: ../images/Diagramacasodeuso5.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso6.png
+.. image:: ../images/Diagramacasodeuso6.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso7.png
+.. image:: ../images/Diagramacasodeuso7.png
    :scale: 80 %
 
-.. image:: ../source/images/Diagramacasodeuso8.png
+.. image:: ../images/Diagramacasodeuso8.png
    :scale: 80 %
 
 
