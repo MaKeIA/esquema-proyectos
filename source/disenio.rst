@@ -8,31 +8,31 @@ Se colocan los distintos casos de uso, tanto para la aplicación general como pa
 cada módulo.
 
 
-.. image:: ../images/Diagramacasodeuso.png
+.. image:: ../images/Usuario.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso1.png
+.. image:: ../images/UsuarioComun.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso2.png
+.. image:: ../images/Artista.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso3.png
+.. image:: ../images/Administrador.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso4.png
+.. image:: ../images/GestionUsuarios.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso5.png
+.. image:: ../images/GestionEventos.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso6.png
+.. image:: ../images/CapsulaInformativas.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso7.png
+.. image:: ../images/Estadisticas.png
    :scale: 80 %
 
-.. image:: ../images/Diagramacasodeuso8.png
+.. image:: ../images/Directorio.png
    :scale: 80 %
 
 
