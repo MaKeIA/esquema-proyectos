@@ -9,32 +9,23 @@ cada módulo.
 
 
 .. image:: ../images/Usuario.png
-   :scale: 80 %
-
+   
 .. image:: ../images/UsuarioComun.png
-   :scale: 80 %
-
+   
 .. image:: ../images/Artista.png
-   :scale: 80 %
-
+   
 .. image:: ../images/Administrador.png
-   :scale: 80 %
-
+   
 .. image:: ../images/GestionUsuarios.png
-   :scale: 80 %
-
+   
 .. image:: ../images/GestionEventos.png
-   :scale: 80 %
-
+   
 .. image:: ../images/CapsulasInformativas.png
-   :scale: 80 %
-
+   
 .. image:: ../images/Estadisticas.png
-   :scale: 80 %
-
+   
 .. image:: ../images/Directorio.png
-   :scale: 80 %
-
+   
 
 Clases
 ------
