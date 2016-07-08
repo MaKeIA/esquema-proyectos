@@ -26,7 +26,7 @@ cada módulo.
 .. image:: ../images/GestionEventos.png
    :scale: 80 %
 
-.. image:: ../images/CapsulaInformativas.png
+.. image:: ../images/CapsulasInformativas.png
    :scale: 80 %
 
 .. image:: ../images/Estadisticas.png
