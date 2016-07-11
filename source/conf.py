@@ -54,7 +54,7 @@ copyright = u'2016, Luis Antonio Makepeace de Leon'
 # built documents.
 #
 # The short X.Y version.
-version = '0.1'
+version = '1.0'
 # The full version, including alpha/beta/rc tags.
 release = '0.1'
 

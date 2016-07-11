@@ -17,9 +17,9 @@ Contenido:
    tiempos
 
 
-Indices y tablas
-==================
+..Indices y tablas
+..==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+..* :ref:`genindex`
+..* :ref:`modindex`
+..* :ref:`search`
