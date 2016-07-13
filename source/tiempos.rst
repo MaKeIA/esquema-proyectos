@@ -4,14 +4,20 @@ Desarrollo del proyecto
 Cómo se trabajará
 -----------------
 
-Explicación de cómo se trabajará la aplicación, como ciclo de vida, prototipos,
-etc.
+El proyecto se construirá implementado el metodo de desarrollo de sistemas 
+dinamicos, este metodo provee un framework para el desarrollo ágil del software 
+donde la prioriada es involucrar mucho al cliente, su desarrollo será iterativo e 
+incremental, haciendo de un software con buena calidad. La comunicacion y 
+cooperacion es algo muy claro en este metodo que ayudará a que el proyecto
+sea efectivo y eficiente. Lo elemenatal será entregar fases del producto con el fin 
+de revisar detalladamente sus partes y poder tomar en cuenta para la siguiente. Lo
+primoridial es entregar un software con las necesidades mas importantes del negocio, 
+implementando despues todas las posibles funciones.
 
 Actividades a realizar
 ----------------------
 
-Listado de actividades importantes que el cliente debe de tener en cuenta, como por
-ejemplo, el análisis, la implementación, capacitaciones, etc.
+
 
 Entregables
 -----------

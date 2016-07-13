@@ -21,6 +21,13 @@ busqueda.
 Modulos
 -------
 
+Login
+^^^^^^
+
+Primer modulo donde inicia sesion el usuario o se registra si no tiene una 
+cuenta a traves de un formulario.
+
+
 Usuarios
 ^^^^^^^^
 

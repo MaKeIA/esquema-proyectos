@@ -1,12 +1,12 @@
-﻿""Fomentando La Cultura""
-====================
+""Fomentando La Cultura""
+=========================
 
 Historia del proyecto
 ---------------------------
 
 El proyecto nace de la necesidad de la Casade la Cultura de gestionar informacion
-cultural de la ciudad de una manera mas optima con el fin de poder ayudar en la toma
-de decisiones. Y asi tener una mejor proyeccion de lo que se deba hacer.
+cultural de la ciudad de una manera mas optima con el fin de tener mas clara 
+la toma de decisiones. Y asi tener una mejor proyeccion de lo que se deba hacer.
 
 Tambien ellos promueven la cultura a traves de sus eventos pero sus ideas son 
 pocos efectivas. Esto repercute mucho en el interes de una persona. Con el fin de 

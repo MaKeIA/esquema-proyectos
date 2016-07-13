@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Bienvenido a la documentación de "Fomentando La Cultura"
-=========================================
+========================================================
 
 Contenido:
 
