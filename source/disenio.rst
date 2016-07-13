@@ -7,11 +7,11 @@ Casos de Uso
 Se colocan los distintos casos de uso, tanto para la aplicación general como para
 cada módulo.
 
-.. image:: ../_static/Login.png
- :height: 10cm
- :width: 10cm
+
 
 .. image:: ../Diagramas/CasosDeUso/Usuario.png
+ :height: 10cm
+ :width: 10cm
    
 .. image:: ../Diagramas/CasosDeUso/UsuarioComun.png
    
