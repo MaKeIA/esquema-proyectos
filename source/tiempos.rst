@@ -46,7 +46,7 @@ cuando.
 Tabla de tiempos
 -------------------------
 Se crea un lista de actividades
-.. image:: ../Image/Directorio.png
+.. image:: ../Images/Directorio.png
  :height: 10cm
  :width: 10cm
 
