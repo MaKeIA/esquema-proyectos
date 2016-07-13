@@ -53,7 +53,7 @@ Tabla de tiempos
 -------------------------
 Se crea un lista de actividades:
 
-.. image:: ../_images/Cronograma.png
+.. image:: ../_images/cronograma.png
  :height: 10cm
  :width: 10cm
 
