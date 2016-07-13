@@ -51,8 +51,9 @@ software.
 
 Tabla de tiempos
 -------------------------
-Se crea un lista de actividades
-.. image:: ../Images/Directorio.png
+Se crea un lista de actividades:
+
+.. image:: ../Images/Cronograma.png
  :height: 10cm
  :width: 10cm
 
