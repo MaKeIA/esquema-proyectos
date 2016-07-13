@@ -16,7 +16,9 @@ implementando despues todas las posibles funciones.
 
 Actividades a realizar
 ----------------------
-
+Las actividades que se deben saber son:
+	-	La identificacion de problemas, oportunidades y objetivos que se haran 
+	-	La determinacion de los requerimientos de la aplicacion p
 
 
 Entregables
