@@ -17,26 +17,43 @@ implementando despues todas las posibles funciones.
 Actividades a realizar
 ----------------------
 Las actividades que se deben saber son:
-	-	La identificacion de problemas, oportunidades y objetivos que se haran 
-	-	La determinacion de los requerimientos de la aplicacion p
+	-	La identificacion de problemas, oportunidades y objetivos donde se 		
+		requerira la observacion de las funciones de la organizacion, 			
+		conociendo los problemas que se tengan. Y dando a conocer mejoras 		
+		en relacion de las soluciones mediante sistemas de informacion.
+	-	La determinacion de los requerimientos de informacion donde se involucra
+		al cliente para la identificacion de que quieren.
+	-	El diseño, donde se da a conocer sobre el sistema optimo para la empresa, 
+		basada en la recoleccion de datos obtenidos anteriormente.
+	- 	Las pruebas del sistemas, para que el cliente conozca la interfaz y tenga
+		una impresion de como lo vaya a utilizar.
+	-	Capacitaciones, donde al cliente tendra una clase de como se debe utilizar
+		la aplicacion y por cualquier duda que se tenga del sistema.
 
 
 Entregables
 -----------
 
-Se listan y se describen cada uno de los elementos que se entregarán al final
-del proyecto, como código fuente, manuales, etc.
+Manual de usuario,  el cual contedra todo lo necesario para el uso de la aplicacion.  
+El cual abarca funciones, capturas de pantallas y diagramas para la facilidad de 
+entendimiento.
+Manual tecnico,  el cual contendra datos mas complejos, contendran caracteristicas y 
+y funcionalidades que haran saber las ventejas y desventajas que se tiene.
+Capacitaciones, contendra el cronograma de las misma detalladas para que se haran y 
+cuando.
 
-Tabla de tiempos y costos
+
+Tabla de tiempos
 -------------------------
-
-Se crea una tabla de tiempos estipulados de desarrollo al igual que los costos,
-pero en el caso del proyecto solamente se colocarán los tiempos, ya que la
-evaluación de costos se verá en otros cursos mas adelante.
+Se crea un lista de actividades
+.. image:: ../Image/Directorio.png
+ :height: 10cm
+ :width: 10cm
 
 Condiciones
 -----------
 
-Condiciones legales, administrativas o de otra índole que el cliente debe de
-tomar en cuenta para la realización del proyecto, como fechas de pago, licencias,
-requerimientos, etc.
+Politicas de uso y privacidad, donde se detallan reglamentos referentes al uso de la 
+aplicacion cuando usted esta de acuerdo.
+
+
