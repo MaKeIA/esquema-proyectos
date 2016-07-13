@@ -37,8 +37,8 @@ Artista:
 Modulo donde tiene las caracteristicas del usuario comun, agregando que el 
 artista podra crear eventos y asignar artista al evento.
 
-Administrador:
-^^^
+####Administrador:
+
 Modulo donde el usuario tiene todos los privilegio donde podra hacer la gestion
 de usuarios comunes, artistas y eventos. La creacion de capsulas informaticos y 
 la verificacion de estadististicas.
