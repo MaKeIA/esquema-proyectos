@@ -11,23 +11,23 @@ cada módulo.
  :height: 10cm
  :width: 10cm
 
-.. image:: ../_static/Usuario.png
+.. image:: ../Diagramas/CasosDeUso/Usuario.png
    
-.. image:: ../_static/UsuarioComun.png
+.. image:: ../Diagramas/CasosDeUso/UsuarioComun.png
    
-.. image:: ../_static/Artista.png
+.. image:: ../Diagramas/CasosDeUso/Artista.png
    
-.. image:: ../_static/Administrador.png
+.. image:: ../Diagramas/CasosDeUso/Administrador.png
    
-.. image:: ../_static/GestionUsuarios.png
+.. image:: ../Diagramas/CasosDeUso/GestionUsuarios.png
    
-.. image:: ../_static/GestionEventos.png
+.. image:: ../Diagramas/CasosDeUso/GestionEventos.png
    
-.. image:: ../_static/CapsulasInformativas.png
+.. image:: ../Diagramas/CasosDeUso/CapsulasInformativas.png
    
-.. image:: ../_static/Estadisticas.png
+.. image:: ../Diagramas/CasosDeUso/Estadisticas.png
    
-.. image:: ../_static/Directorio.png
+.. image:: ../Diagramas/CasosDeUso/Directorio.png
    
 
 Clases
