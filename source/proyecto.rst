@@ -56,7 +56,7 @@ Gestion de Usuarios
 
 Modulo donde se tendra el control del registro y los privilegios de un artista y 
 de un usuario-visitante a cargo del administrador. Asi como la validacion y 
-verificacion del registro.  
+verificacion del registro. Tambien se tendra el logueo de cada usuario.
 
 Capsulas Informativas
 ^^^^^^^^^^^^^^^^^^^^^^
