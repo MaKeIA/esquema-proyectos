@@ -27,17 +27,17 @@ Usuarios
 Modulo donde se registraran, crearan su perfil y actualizaran datos.
 Divido en tres submodulos:
 
-Usuario comun:
+**Usuario comun:**
 
 En este modulo se manejaran las acciones que puede hacer el usuario como
 escribir reseña a artista o evento, seguirlos, etc.
 
-Artista:
+**Artista:**
 
 Modulo donde tiene las caracteristicas del usuario comun, agregando que el 
 artista podra crear eventos y asignar artista al evento.
 
-####Administrador:
+**Administrador:**
 
 Modulo donde el usuario tiene todos los privilegio donde podra hacer la gestion
 de usuarios comunes, artistas y eventos. La creacion de capsulas informaticos y 
