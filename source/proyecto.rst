@@ -1,4 +1,4 @@
-﻿Fomentando La Cultura
+Fomentando La Cultura
 ===========
 
 Descripción General
@@ -21,13 +21,6 @@ busqueda.
 Modulos
 -------
 
-Login
-^^^^^^
-
-Primer modulo donde inicia sesion el usuario o se registra si no tiene una 
-cuenta a traves de un formulario.
-
-
 Usuarios
 ^^^^^^^^
 
@@ -35,17 +28,17 @@ Modulo donde se registraran, crearan su perfil y actualizaran datos.
 Divido en tres submodulos:
 
 Usuario comun:
---
+
 En este modulo se manejaran las acciones que puede hacer el usuario como
 escribir reseña a artista o evento, seguirlos, etc.
 
 Artista:
---
+
 Modulo donde tiene las caracteristicas del usuario comun, agregando que el 
 artista podra crear eventos y asignar artista al evento.
 
 Administrador:
---
+^^^
 Modulo donde el usuario tiene todos los privilegio donde podra hacer la gestion
 de usuarios comunes, artistas y eventos. La creacion de capsulas informaticos y 
 la verificacion de estadististicas.
