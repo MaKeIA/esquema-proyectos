@@ -54,4 +54,6 @@ Diagramas de clases y de sus distintas actividades, si fuese necesario.
 Diagrama de BD
 --------------
 
-
+.. image:: ../Diagramas/BD/CasaCultura.png
+ :height: 10cm
+ :width: 10cm

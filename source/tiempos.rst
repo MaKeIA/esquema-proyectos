@@ -34,14 +34,20 @@ Las actividades que se deben saber son:
 Entregables
 -----------
 
-Manual de usuario,  el cual contedra todo lo necesario para el uso de la aplicacion.  
+**Manual de usuario**  
+El cual contedra todo lo necesario para el uso de la aplicacion.  
 El cual abarca funciones, capturas de pantallas y diagramas para la facilidad de 
 entendimiento.
-Manual tecnico,  el cual contendra datos mas complejos, contendran caracteristicas y 
+
+**Manual tecnico**
+El cual contendra datos mas complejos, contendran caracteristicas y 
 y funcionalidades que haran saber las ventejas y desventajas que se tiene.
 Capacitaciones, contendra el cronograma de las misma detalladas para que se haran y 
 cuando.
 
+**La aplicacion**
+Lo esencial del trabajo que dara inicio a la ejecucion y puesta en marcha del 
+software.
 
 Tabla de tiempos
 -------------------------
@@ -53,7 +59,24 @@ Se crea un lista de actividades
 Condiciones
 -----------
 
-Politicas de uso y privacidad, donde se detallan reglamentos referentes al uso de la 
-aplicacion cuando usted esta de acuerdo.
+**Politicas de uso y privacidad**
+Donde se detallan reglamentos referentes al uso y privacidad del usuario.
+
+**Licencia Antivirus** 
+Para una seguridad fuerte ante cualquier amenaza de robo de 
+de informacion.
+
+**Servidor**
+Que se debera comprar para tener la base de datos de la aplicacion.
+
+**Internet** 
+Prioridad que se debe tener siempre para poder tener conexion al servidor 
+con el objetivo de que los usuarios puedan estar siempre actualizados.
+
+**Fechas de Pago**
+Contempladas por el desarrollador donde estipula el costo y el tiempo 
+para cada pago. 
+
+
 
 
